@@ -1,4 +1,4 @@
-Welcome to my GITHUB page for my work at middlesex for the week 1 to week 7.
+Welcome to my github page.
 -
 
-Jean Rouillard - M01143809
+My Name and StudentID: Jean Rouillard - M01143809
