@@ -1,0 +1,7 @@
+Jean - OVER LIMIT
+Lucas - OK
+Armada - OVER LIMIT
+Joker - WARNING
+Cascavelle - OK
+
+Total Overlimit = 2
