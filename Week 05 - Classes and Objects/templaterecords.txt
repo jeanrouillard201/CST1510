@@ -1,0 +1,5 @@
+Jean,40,35
+Lucas,32,40
+Armada,300,20
+Joker, 79, 81
+Cascavelle, 70,90
