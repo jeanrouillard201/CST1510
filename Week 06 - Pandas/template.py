@@ -4,7 +4,7 @@ RECORD CHECK  -  my version
 
 Name  : Jean Rouillard
 Lane  :  AI / Data Science
-Date  : 12/11/2026
+Date  : 06/11/2026
 
 Run it:   python template.py
 
